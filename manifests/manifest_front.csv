@@ -1,1 +1,17 @@
 slot,file,split,weather,scene,timeofday,tier,focus,reason,blur_note
+A01,bc5fadac-fa6dd225.jpg,val,clear,highway,daytime,core,3+ vạch làn,lanes=4; dashed=2; direct=1; alternative=2; signs=1,"rõ, 4 vạch làn cao tốc"
+A02,b3c26aff-63a0d7d6.jpg,val,clear,highway,daytime,core,vạch đứt dài,lanes=3; dashed=2; direct=1; alternative=1,"rõ, vạch đứt dài ở giữa"
+A03,b1c66a42-6f7d68ca.jpg,val,overcast,city street,daytime,core,làn bị che,lanes=2; dashed=1; occluded_lane=1; double_yellow=1; curb=1; direct=1; signs=2,vạch đứt bên phải bị xe đỗ che một phần
+A04,b7a8e795-0ff55db2.jpg,val,overcast,city street,daytime,core,vàng đôi + direct/alternative,lanes=3; dashed=1; double_yellow=1; direct=1; alternative=1,"rõ, có làn xe đạp bên phải"
+A05,b2576c8c-2de20b8a.jpg,val,overcast,city street,daytime,core,vùng lái + mép lề,curb=1; direct=1,"phố không kẻ vạch L1/R1, hai bên có xe đỗ và lề"
+A06,b8c66e31-37045eec.jpg,val,overcast,city street,daytime,core,vạch qua đường,lanes=2; dashed=1; occluded_lane=1; double_yellow=1; crosswalk=1; direct=1; lights=3; signs=3,"rõ, dưới gầm cầu sắt"
+A07,b41ace08-c8468690.jpg,val,overcast,city street,daytime,core,đèn giao thông,lanes=2; occluded_lane=1; curb=1; direct=1; alternative=1; lights=1,bên trái là dải phân cách bê tông không có vạch sơn L1
+A08,c0deebc1-16cfa791.jpg,val,overcast,city street,daytime,core,nhiều cụm đèn,lanes=3; dashed=1; crosswalk=1; direct=1; alternative=1; lights=5; signs=2,"rõ, giao lộ nhiều đèn và biển Harlem River Dr"
+A09,c7e6d5d1-c8af9fe3.jpg,val,clear,city street,daytime,core,biển báo,lanes=3; dashed=1; direct=1; alternative=1; signs=2,vạch trắng đôi cong ở giữa đường
+A10,b6ff1331-f6d3fba8.jpg,val,rainy,city street,daytime,core,biển phụ (coach kiểm tay),lanes=3; dashed=1; occluded_lane=1; direct=1; alternative=1; signs=3,cụm 3 biển đỗ xe kèm biển phụ ở cột bên trái
+A11,c1f35f18-b529c043.jpg,val,clear,city street,dawn/dusk,core,"hoàng hôn, đủ loại nhãn",lanes=2; dashed=1; double_yellow=1; direct=1; lights=2,"ánh sáng chạng vạng, đèn xanh ở xa"
+A12,c0f978fa-9b4e623f.jpg,val,clear,city street,daytime,core,"phố đông, đủ loại nhãn",lanes=2; dashed=1; crosswalk=1; direct=1; lights=2; signs=2,"rõ, giao lộ phố đông"
+A13,c179d309-b446fda3.jpg,val,rainy,city street,daytime,extra,mưa,lanes=3; dashed=2; curb=1; direct=1; alternative=1,nhiều giọt nước mưa bám kính chắn gió
+A14,ca04d99f-c1282bb7.jpg,val,clear,city street,night,extra,đêm,lanes=2; double_yellow=1; crosswalk=1; direct=1; lights=3,"trời tối, ánh đèn pha và đèn tín hiệu"
+A15,be85bd88-d849c034.jpg,val,overcast,highway,daytime,extra,vạch mờ (coach kiểm tay),lanes=3; dashed=1; direct=1; alternative=1; signs=3,"đoạn đường đang thi công, có biển cam"
+A16,b6f77fda-33d2260f.jpg,val,clear,city street,daytime,extra,giao lộ phức tạp,lanes=3; dashed=2; occluded_lane=1; crosswalk=1; direct=1; alternative=1; lights=2,nhiều taxi chuyển làn ở nút giao
